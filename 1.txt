@@ -1,0 +1,16 @@
+class Program
+{
+static void Main(string[] args)
+{
+Console.WriteLine("¬ведите x!");
+double x;// = -0.26;
+if (double.TryParse(Console.ReadLine(), out x))
+{
+double H = Math.sin(ln)*(x+2)-MAth.cos*(ѕ(ln)*(x+5/3))+x/5);
+Console.WriteLine(H);
+}
+else
+Console.WriteLine("¬ведено неверное значение! ¬ведите число, "+ "спользу€ в качестве разделител€ точку!");
+Console.ReadKey();
+}
+}
